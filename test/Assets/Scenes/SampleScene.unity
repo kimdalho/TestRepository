@@ -1016,11 +1016,7 @@ GameObject:
   m_Component:
   - component: {fileID: 671578577}
   m_Layer: 0
-<<<<<<< Updated upstream
   m_Name: Apply
-=======
-  m_Name: Apply2
->>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
